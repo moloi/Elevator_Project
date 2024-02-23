@@ -1,0 +1,7 @@
+C:\Users\ITQ_DEVELOPER\source\repos\Elevator_Project\Elevator_Project\bin\Debug\Elevator_Project.exe.config
+C:\Users\ITQ_DEVELOPER\source\repos\Elevator_Project\Elevator_Project\bin\Debug\Elevator_Project.exe
+C:\Users\ITQ_DEVELOPER\source\repos\Elevator_Project\Elevator_Project\bin\Debug\Elevator_Project.pdb
+C:\Users\ITQ_DEVELOPER\source\repos\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.csproj.AssemblyReference.cache
+C:\Users\ITQ_DEVELOPER\source\repos\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.csproj.CoreCompileInputs.cache
+C:\Users\ITQ_DEVELOPER\source\repos\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.exe
+C:\Users\ITQ_DEVELOPER\source\repos\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.pdb
